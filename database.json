@@ -1,0 +1,115 @@
+{
+    "Cymbidium": {
+        "dry": {
+            "high p": "Dein Cymbidium leidet unter Trockenheit ( {} ). Halte die Luftfeuchtigkeit moeglichst zwischen 40 und 60%, es kann sein, dass du den Raum dafuer befeuchten musst, beispielsweise durch eine offene Schale mit Wasser. Immer, wenn die Oberflaeche des Substrats trocken ist, solltest du giessen oder spruehen, und zwar mit moeglichst reinem Wasser. Achte aber darauf, dass sich keine Staunaesse bildet.",
+            "low p": "Dein Cymbidium benoetigt etwas mehr Wasser ( {} ). Vor allem in der Wachstumsperiode, also im Fruehjahr, Sommer und Herbst, solltest du es haeufig giessen. Auch die Erhoehung der Luftfeuchtigkeit auf etwa 50% und regelmaessiges ueberspruehen kann helfen, deine Pflanze mit dem noetigen Wasser zu versorgen. Achte auch im Winter darauf, dass das Substrat nicht vollstaendig austrocknet, aber sich auch keine Staunaesse bildet."
+        },
+        "healthy":  {
+            "high p": "Dein Cymbidium scheint gesund zu sein ( {} ). Weiter so!",
+            "low p": "Dein Cymbidium ist wahrscheinlich gesund ( {} ). Du solltest aber aufpassen, ob sich nicht doch eine Krankheit entwickelt."
+        },
+        "mealybugs":  {
+            "high p": "Dein Cymbidium leidet unter starkem Wolllausbefall ( {} ). Es sollte in einem hellen und kuehlen Raum unter Quarantaene gestellt werden. Bekaempfe sie mit einer Mischung aus Wasser mit etwas Reinigungsalkohol und Kernseife das du auf die Blaetter aufspruehst. Entferne alle weissen Sekrete und Parasiten mit einem in Reinigungsalkohol oder dein Bekaempfungsmittel getauchten Wattestaebchen oder Pinsel.",
+            "low p": "Dein Cymbidium koennte von Wolllaeusen befallen sein ( {} ). Stelle die Pflanze sicherheitshalber unter Quarantaene. Spruehe sie mit einer Mischung aus gleichen Teilen Wasser und Reinigungsalkohol mit einigen Tropfen Spuelmittel ab. Alle weissen Stellen sollten entfernt werden. Achte auf ausreichend Luftfeuchtigkeit und Temperaturen von etwa 15C."
+        },
+        "sunburn":  {
+            "high p": "Dein Cymbidium hat einen Sonnenbrand erlitten ( {} ). Verletze die Pflanze nicht noch mehr durch Entfernen der betroffenen Stellen, sondern beuge weiterem Schaden vor, indem du auf ausreichend Feuchtigkeit und eine Temperatur von maximal 20C achtest und die Menge an direktem Licht z. B. durch Vorhaenge verringerst. Schuetze dein Cymbidium vor allem draussen vor der Mittagssonne.",
+            "low p": "Dein Cymbidium bekommt zu starkes Licht ab ( {} ). Versuche, das direkte Licht z. B. durch Vorhaenge abzuschwaechen. Die direkte Mittagssonne kann ihm besonders schaden. Deshalb sollte deine Pflanze nach Moeglichkeit an einem Ost- oder Suedostfenster stehen. Achte darauf, dass der Raum sich nicht allzu stark aufheizt und die Bewaesserung ausreicht."
+        },
+        "wet":  {
+            "high p": "Dein Cymbidium fault ( {} ). Nimm es sofort aus dem Topf, entferne alles alte Substrat, entferne alle faulen Stellen mit einem desinfizierten Messer und setze es behutsam in einen Topf mit neuem, trockenen Substrat. Achte darauf, dass in Zukunft keine Staunaesse mehr entsteht.",
+            "low p": "Dein Cymbidium bekommt etwas zu viel Wasser ( {} ). Lasse das Substrat, aber nicht die Pflanze, vollstaendig austrocknen, bevor du das naechste Mal waesserst. Im Sommer kann es sich anbieten, die Orchidee eher zu bespruehen.  Achte darauf, dass im Substrat keine Staunaesse entsteht."
+        }
+    },
+    "Dendrobium": {
+        "dry": {
+            "high p": "Dein Dendrobium braucht dringend Wasser ( {} ). Achte darauf, dass Substrat niemals ganz austrocknen zu lassen, sondern immer leicht feucht zu halten. Tipp: Waessere es mit destilliertem oder Regenwasser, das verhindert die Ansammlung von Salzen.",
+            "low p": "Du solltest dein Dendrobium wieder einmal giessen ( {} ). Das Substrat sollte weder nass noch trocken sein, wenn du den Finger hineinsteckst. Im Winter kannst du etwas seltener giessen, achte aber trotzdem auf eine gute Luftfeuchtigkeit, um Parasiten vorzubeugen."
+        },
+        "healthy":  {
+            "high p": "Dein Dendrobium scheint gesund zu sein ( {} ). Weiter so!",
+            "low p": "Dein Dendrobium ist wahrscheinlich gesund ( {} ). Du solltest aber aufpassen, ob sich nicht doch eine Krankheit entwickelt."
+        },
+        "mealybugs":  {
+            "high p": "Dein Dendrobium leidet unter Wolllausbefall ( {} ). Trenne die Pflanze sofort von allen anderen Gruenpflanzen. Spruehe sie mit einer Mischung aus gleichen Teilen Wasser und Reinigungsalkohol mit einigen Tropfen Spuelmittel ab. Alle weissen Stellen sollten entfernt werden. Auch ein Pestizid fuer Zimmerpflanzen kann helfen.",
+            "low p": "Dein Dendrobium koennte von Wolllaeusen befallen sein ( {} ). Stelle die Pflanze sicherheitshalber unter Quarantaene. Spruehe sie mit einer Mischung aus gleichen Teilen Wasser und Reinigungsalkohol mit einigen Tropfen Spuelmittel ab. Alle weissen Stellen sollten entfernt werden. Achte auf ausreichend Luftfeuchtigkeit, Wolllaeuse lieben trockene Heizungsluft."
+        },
+        "sunburn":  {
+            "high p": "Dein Dendrobium hat einen Sonnenbrand erlitten ( {} ). Verletze die Pflanze nicht noch mehr durch Entfernen der betroffenen Stellen, sondern beuge weiterem Schaden vor, indem du auf ausreichend Feuchtigkeit achtest und die Menge an direktem Licht z. B. durch Vorhaenge verringerst.",
+            "low p": "Dein Dendrobium bekommt zu starkes Licht ab ( {} ). Versuche, das direkte Licht z. B. durch Vorhaenge abzuschwaechen. Trotzdem sollte deine Pflanze nach Moeglichkeit an einem Suedfenster stehen, da sie viel Helligkeit benoetigt."
+        },
+        "wet":  {
+            "high p": "Dein Dendrobium fault ( {} ). Nimm sie sofort aus dem Topf, entferne alles alte Substrat, entferne alle faulen Stellen mit einem desinfizierten Messer und setze die Orchidee behutsam in einen Topf mit neuem, trockenen Substrat.",
+            "low p": "Dein Dendrobium bekommt etwas zu viel Wasser ( {} ). Giesse es in der Ruhepause hoechstens sehr selten. Auch in der Bluehsaison solltest du es eher tauchen und immer darauf achten, dass sich keine Staunaesse bildet, die zu Faeule fuehren kann."
+        }
+    },
+    "Oncidium": 
+    {
+        "dry": {
+            "high p": "Dein Oncidium leidet unter Trockenheit ( {} ). Halte die Luftfeuchtigkeit moeglichst ueber 50%, es kann sein, dass du dafuer regelmaessig befeuchten musst. Immer, wenn die Oberflaeche des Substrats vollstaendig trocken ist, solltest du giessen. Achte aber darauf, dass sich keine Staunaesse bildet.",
+            "low p": "Dein Oncidium benoetigt etwas mehr Wasser ( {} ). Achte darauf, sie vor allem in der Wachstumsperiode alle 2-10 Tage zu bewaessern. Pflanzen mit duenneren Blaettern benoetigen etwas mehr Wasser als solche mit dickeren Blaettern, da sie ueber ihre Oberflaeche mehr Feuchtigkeit verlieren."
+        },
+        "healthy":  {
+            "high p": "Dein Oncidium scheint gesund zu sein ( {} ). Weiter so!",
+            "low p": "Dein Oncidium ist wahrscheinlich gesund ( {} ). Du solltest aber aufpassen, ob sich nicht doch eine Krankheit entwickelt."
+        },
+        "mealybugs":  {
+            "high p": "Dein Oncidium leidet unter Wolllausbefall ( {} ). Entferne sofort alle weissen Stellen und Parasiten mit einem beliebigen Insektizid, stelle sie unter Quarantaene und achte in Zukunft besonders auf Hygiene.",
+            "low p": "Moeglicherweise ist dein Oncidium von Wolllaeusen befallen ( {} ). Entferne sicherheitshalber alle toten Pflanzenteile und weissen Flecken und stelle die Pflanze unter Quarantaene."
+        },
+        "sunburn":  {
+            "high p": "Dein Oncidium hat einen Sonnenbrand erlitten ( {} ). Verletze die Pflanze nicht noch mehr durch Entfernen der betroffenen Stellen, sondern beuge weiterem Schaden vor, indem du auf ausreichend Feuchtigkeit achtest und die Menge an direktem Licht verringerst.",
+            "low p": "Dein Oncidium bekommt zu starkes Licht ab ( {} ). Versuche, das direkte Licht z. B. durch Vorhaenge abzuschwaechen. Trotzdem sollte deine Pflanze nach Moeglichkeit an einem Suedfenster stehen, da sie viel Helligkeit benoetigt."
+        },
+        "wet":  {
+            "high p": "Dein Oncidium beginnt aufgrund der Ueberwaesserung, zu faulen ( {} ). Entferne alle braeunlichen oder schwarzen Wurzeln und Pseudobulben mit einer sterilen Klinge und giesse in naechster Zeit eher weniger.",
+            "low p": "Dein Oncidium hat etwas viel Wasser ( {} ). Giesse es in naechster Zeit eher nicht, sondern achte lieber auf eine Luftfeuchtigkeit von ca. 50% und eine gute Luftzirkulation. Wenn sich braune Stellen bilden, entferne sie."
+        }
+    },
+    "Phalaenopsis": 
+    {
+        "dry": {
+            "high p": "Deine Phalaenopsis leidet unter starkem Wassermangel ( {} ). Tauche sie in naechster Zeit einmal taeglich in lauwarmes Wasser, bis die silbrige Faerbung der Wurzeln verschwindet. Achte danach darauf, sie im Sommer alle 1-2 Wochen bis zu den Blattansaetzen einzutauchen und erhoehe die Frequenz, wenn die silbrige Faerbung wieder auftritt.",
+            "low p": "Deine Phalaenopsis koennte etwas mehr Wasser vertragen ( {} ). Tauche sie im Sommer alle 1-2 Wochen bis zu den Blattansaetzen in lauwarmes Wasser, um ihr die noetige Feuchtigkeit zu geben. Alternativ kannst du sie auch 3-4 mal pro Woche mit etwas Wasser uebergiessen. Achte darauf, alles ueberschuessige ablaufen zu lassen."
+        },
+        "healthy":  {
+            "high p": "Deine Phalaenopsis scheint gesund zu sein ( {} ). Weiter so!",
+            "low p": "Deine Phalaenopsis ist wahrscheinlich gesund ( {} ). Du solltest aber aufpassen, ob sich nicht doch eine Krankheit entwickelt."
+        },
+        "mealybugs":  {
+            "high p": "Deine Phalaenopsis leidet unter starkem Wolllausbefall ( {} ). Trenne sie unbedingt von allen anderen Pflanzen. Um sie zu retten, kannst du versuchen, alle weissen Stellen mit Chlorreiniger zu entfernen und die Orchidee im Wechsel 5 min im verduennten Reiniger und 30 min im reinen Wasser traenken und sie jeweils davor mit der Fluessigkeit abspuelen. Achte darauf, dass der Reiniger gut ausgewaschen werden kann und auch an Blueten Wurzeln und in den Blattachsen kein Parasit verbleibt.",
+            "low p": "Es kann sein, dass deine Phalaenopsis von Wolllaeusen befallen wurde ( {} ). Stelle sie sicherheitshalber in einen kuehlen, feuchten Raum zur Quarantaene (keinesfalls unter 18C) und entferne alle weissen Flecken, indem du sie mit lauwarmen Wasser wegspuelst und eventuell mit Alkohol und einem Wattestaebchen nachreinigst. Schuetze die Wurzeln durch eine Tuete vor der Behandlung, die du erst wieder abnimmst, wenn die Orchidee vollstaendig getrocknet ist."
+        },
+        "sunburn":  {
+            "high p": "Deine Phalaenopsis hat einen Sonnenbrand ( {} ). Schneide die betroffenen Blaetter nicht ab, sondern versuche stattdessen, das Sonnenlicht, das deine Orchidee trifft, abzumildern. Stelle sie an einen Ort, an dem sie nur indirekt beleuchtet wird, also nicht ans Fenster, oder fange die Sonneneinstrahlung mit Vorhaengen ab.",
+            "low p": "Deine Phalaenopsis erhaelt ein wenig zu viel Licht ( {} ). Achte darauf, dass sie nicht direkt an einer Fensterscheibe steht und kuemmere dich um ausreichende, aber nicht uebermaessige Bewaesserung. Lass bei kuenstlichem Licht mindestens 30 cm Abstand, Leuchtstoffroehren mit 40-74 Watt sind optimal."
+        },
+        "wet":  {
+            "high p": "Deine Phalaenopsis fault ( {} ). Nimm sie sofort aus dem Topf, entferne alles alte Substrat, entferne alle faulen Stellen mit einem desinfizierten Messer und setze die Orchidee behutsam in einen Topf mit neuem, trockenen Substrat. Giesse sie in naechster Zeit nicht, sondern bespruehe sie stattdessen mit Wasser.",
+            "low p": "Deine Phalaenopsis hat etwas zu viel Feuchtigkeit ( {} ). Lass sie immer, wenn du giesst, gut abtropfen und warte mit dem naechsten Giessen, bis sich das Substrat nicht mehr feucht anfuehlt."
+        }
+    },
+    "Vanda": 
+    {
+        "dry": {
+            "high p": "Deine Vanda-Orchidee benoetigt dringend Wasser ( {} ). Giesse sie, vor allem, wenn es warm ist, zweimal am Tag oder traenke sie zwei Mal in der Woche fuer 30 Minuten in lauwarmes Wasser. Das Substrat sollte sich immer leicht feucht anfuehlen. Nutze eher mineralstoffarmes Wasser wie Regenwasser, damit die Salze sich nicht ablagern und der Pflanze noch mehr Wasser entziehen koennen. Achte auf eine Luftfeuchtigkeit ueber 60% .",
+            "low p": "Deine Vanda-Orchidee ist etwas trocken ( {} ). Besonders im Sommer benoetigt sie viel Wasser, aber auch in der Winterruhe solltest du sie etwa in der Woche 30 Minuten lang traenken oder giessen. Achte in der Wachstumsperiode darauf, dass das Substrat immer leicht feucht, aber nicht nass ist. Halte die Luftfeuchtigkeit ueber 60% und bespruehe sie im Sommer taeglich mit Wasser."
+        },
+        "healthy":  {
+            "high p": "Deine Vanda-Orchidee scheint gesund zu sein ( {} ). Weiter so!",
+            "low p": "Deine Vanda-Orchidee ist wahrscheinlich gesund ( {} ). Du solltest aber aufpassen, ob sich nicht doch eine Krankheit entwickelt."
+        },
+        "mealybugs":  {
+            "high p": "Deine Vanda-Orchidee leidet unter starkem Wolllausbefall ( {} ). Sie sollte unter Quarantaene gestellt werden.  Bekaempfe sie mit einem oelhaltigen Mittel, beispielsweise mit Teebaum- oder Niem-oel, das du auf die Blaetter aufspruehst. Entferne alle weissen Sekrete und Parasiten mit einem in Reinigungsalkohol oder dein Bekaempfungsmittel getauchten Wattestaebchen. Achte darauf, dass sich Wolllaeuse gerne in den Achsen der Pflanze verstecken und schaffe eine Temperatur ueber 25C und eine Luftfeuchtigkeit von mindestens 60%.",
+            "low p": "Deine Vanda-Orchidee koennte von Wolllaeusen befallen sein ( {} ). Stelle sie sicherheitshalber unter Quarantaene und entferne weisse Stellen mit einem verduennten Reinigungmittel oder Pestizid fuer Zimmerpflanzen. Schaffe gute Konditionen fuer die Pflanze, also eine ausreichende Luftfeuchtigkeit von mindestens 60%, eine gute Luftzirkulation (nicht bei aktivem Befall) und nach Moeglichkeit Temperaturen ueber 25C."
+        },
+        "sunburn":  {
+            "high p": "Deine Vanda-Orchidee hat einen Sonnenbrand erlitten ( {} ). Verletze die Pflanze nicht noch mehr durch Entfernen der betroffenen Stellen, sondern beuge weiterem Schaden vor, indem du auf ausreichend Feuchtigkeit achtest und die Menge an direktem Licht z. B. durch Vorhaenge verringerst. Trotzdem solltest du ihr so viel Helligkeit wie moeglich geben.",
+            "low p": "Deine Vanda-Orchidee bekommt zu starkes Licht ab ( {} ). Versuche, das direkte Licht z. B. durch Vorhaenge abzuschwaechen. Trotzdem sollte deine Pflanze nach Moeglichkeit an einem Suedfenster stehen, da sie viel Helligkeit benoetigt."
+        },
+        "wet":  {
+            "high p": "Deine Vanda-Orchidee fault ( {} ). Nimm sie sofort aus dem Topf, entferne alles alte Substrat, entferne alle faulen Stellen mit einem desinfizierten Messer und setze die Orchidee behutsam in einen Topf mit neuem, trockenen Substrat. Achte darauf, dass in Zukunft keine Staunaesse mehr entsteht.",
+            "low p": "Deine Vanda-Orchidee bekommt zu viel Wasser ( {} ). Achte darauf, dass sich in den Blattachsen und im Substrat keine Staunaesse bildet. Im Winter musst du die Pflanze nur etwa einmal die Woche befeuchten oder giessen. Lass bei jedem Giessen oder Traenken die Pflanze gut abtropfen."
+        }
+    }
+}
