@@ -7,9 +7,9 @@ Android App: https://play.google.com/store/apps/details?id=ai.tobitoyota.orchaid
 -----------------
 
 To test only with code:
-  - create folder "inputs"
-  - place your images there
-  - run "orch_ai_d.py" file
+  - Create folder "inputs"
+  - Place your images there
+  - Run "orch_ai_d.py" file
 
 -----------------
 
